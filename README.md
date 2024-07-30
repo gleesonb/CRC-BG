@@ -1,3 +1,42 @@
+# CRC-BG
+
+Repository created by AWS CodeStar.
+
+## Project Overview
+
+This project appears to be a **Python Application**. It is primarily written in Python and was last updated on 2022-01-12 21:36:42+00:00.
+
+## Repository Statistics
+- Stars: 0
+- Forks: 0
+
+## Key Features
+- Has automated tests
+- No CI/CD configuration detected
+- No Dockerfile detected
+- No license file detected
+
+## File Structure
+```
+README.md
+buildspec.yml
+index.py
+template-configuration.json
+template.yml
+tests/test_handler.py
+```
+
+## Main Technologies
+- .yml: 2 file(s)
+- .py: 2 file(s)
+- .md: 1 file(s)
+- .json: 1 file(s)
+
+## Dependencies
+
+
+## Existing README Content
+
 Welcome to the AWS CodeStar sample web service
 ==============================================
 
@@ -91,3 +130,5 @@ should also regularly review and apply any available patches or associated secur
 advisories for dependencies used within your application.
 
 Best Practices: https://docs.aws.amazon.com/codestar/latest/userguide/best-practices.html?icmpid=docs_acs_rm_sec
+
+
